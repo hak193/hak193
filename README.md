@@ -15,5 +15,4 @@ I'm a FULL STACK DEVELOPER & HACKER, always looking to learn and expand my skill
 
 [The rest of the content remains the same...]
 
-[<script src="https://liberapay.com/b8nk1028/widgets/button.js"></script>
-<noscript><a href="https://liberapay.com/b8nk1028/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>]
+[<noscript><a href="https://liberapay.com/b8nk1028/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>]
