@@ -1,18 +1,64 @@
-[![](https://visitcount.itsvg.in/api?id=jeffdevx&icon=0&color=0)](https://visitcount.itsvg.in)<br>
-# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm Brandon Brouillard - A Self-Taught Full Stack Engineer</b>
+# 🚀 Hi, I'm Brandon Brouillard - A Passionate Full Stack Engineer
 
-## My GitHub Journey
-I'm new to GitHub and excited to learn more about version control and collaborative coding. As a self-taught developer, I'm constantly exploring new technologies and improving my skills.
+Welcome to my GitHub! I'm a **self-taught full-stack developer** with a deep passion for **building scalable applications**, **optimizing system performance**, and **exploring innovative solutions**. My journey in software engineering is fueled by curiosity and a drive for continuous learning.
 
-## About Me
-I'm a FULL STACK DEVELOPER & HACKER, always looking to learn and expand my skills. I believe in the power of continuous learning and the thrill of solving complex problems.
+---
 
-[![LinkedIn](https://img.shields.io/badge/B8nk%20Cartel-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/b8nk1028devx) [![Instagram](https://img.shields.io/badge/B8nk%20Ccartel-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b8nk1028) [![Twitter Badge](https://img.shields.io/badge/United93508%20Team3003-1D9BF0?logo=twitter&logoColor=fff&style=flat)](https://twitter.com/b8nk1028) [![Telegram Badge](https://img.shields.io/badge/BlackHat%20FraudGoD-26A5E4?logo=telegram&logoColor=fff&style=flat)](https://t.me/@UB8NK)
+## 🌟 My GitHub Journey
+I started my GitHub journey to **document my progress**, **collaborate with developers**, and **showcase my technical expertise**. From Laravel projects to system optimizations, I love refining my skills and contributing to open-source communities.
 
-⚡ Full Stack Developer, always looking to exploit or corrupt. Always eager to learn and expand my skills.
+---
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
+## 🛠️ Technical Skills
+![Skills](https://github-widgetbox.vercel.app/api/skills?languages=js,php,python,html,css,c,cpp,csharp,rust,ruby,kotlin,go,scala,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua&theme=darkmode)
 
-[The rest of the content remains the same...]
+- **Programming Languages:** JavaScript, PHP, Python, C++, Rust, Go
+- **Frameworks & Libraries:** Laravel, Node.js, React, TailwindCSS
+- **System Configuration:** Windows PowerShell, Git, Docker
+- **Database Management:** MySQL, PostgreSQL
+- **Version Control:** Git & GitHub (Professional Repository Structuring)
+- **Troubleshooting & Debugging:** Advanced problem-solving for system errors
+- **Software Optimization:** Enhancing performance and security in applications
 
-[<noscript><a href="https://liberapay.com/b8nk1028/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>]
+---
+
+## 🔥 Featured Projects
+### [Laravel API Boilerplate](https://github.com/your-repo)
+A scalable Laravel API boilerplate with authentication, database migrations, and structured repository management.
+
+### [Windows System Optimizer](https://github.com/your-repo)
+A PowerShell script for optimizing Windows performance, managing environment variables, and automating system tasks.
+
+### [GitHub Repository Structurer](https://github.com/your-repo)
+A tool to help developers structure their GitHub repositories for professional branding and showcasing technical projects.
+
+---
+
+## 📊 GitHub Stats
+![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HAK193&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hak193&layout=compact&theme=radical)
+
+---
+
+## 🎯 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HAK193&theme=radical)
+
+---
+
+## 👀 Visitor Counter
+![Visitor Count](https://profile-counter.glitch.me/HAK193/count.svg)
+
+---
+
+## ⏳ Live Coding Stats
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hak193&theme=radical)
+
+---
+
+## 🤝 Let's Connect!
+I'm always open to **collaborations**, **technical discussions**, and **new opportunities**. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/idevr)
+[![Twitter](https://img.shields.io/badge/Follow%20on%20Twitter-1D9BF0.svg?logo=twitter&logoColor=white)](https://twitter.com/b8nk1028)
+[![GitHub](https://img.shields.io/badge/View%20My%20GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/HAK193)
+---
